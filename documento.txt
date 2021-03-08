@@ -1,4 +1,3 @@
 linea1
 
-
-hola que tal
+he borrado y quiero aniadir en la rama 1 lo que quiero
