@@ -1,4 +1,3 @@
 linea1
 
-
-hola que tal
+borro y aniado en la rama2 otra linea
